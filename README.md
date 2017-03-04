@@ -13,10 +13,10 @@
                                                    borderColor:[UIColor blueColor]
                                                     borderWidth:2
                                                 setBorderRedius:20
-                                                     leftBottom:YES
+                                                     leftBottom:NO
                                                         leftTop:YES
                                                        rightTop:YES
-                                                    rightBottom:YES
+                                                    rightBottom:NO
                                                     ];
     borderLine.backgroundColor = [UIColor whiteColor];
     [self.view addSubview:borderLine];
